@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+User+%F0%9F%91%8B;Flutter+Developer+%F0%9F%9A%80;Mobile+App+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+User+%F0%9F%91%8B;Python+IoT+Developer+%F0%9F%9A%80;Swift+App+Enthusiast+%E2%9C%A8;Building+Connected+Solutions+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
 ## 🌟 **About Me**
@@ -17,22 +17,42 @@
 <table>
 <tr>
 <td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=flutter" width="100" height="100" alt="Flutter" />
-<br><strong>Flutter</strong>
+<img src="https://skillicons.dev/icons?i=python" width="100" height="100" alt="Python" />
+<br><strong>Python</strong>
 </td>
 <td width="400" align="left">
 
 ### 👋 **Hi, I'm User!**
-🚀 **Flutter Developer** passionate about mobile development  
+
+🚀 **Python IoT Developer** passionate about connected systems
 
 🌍 **Location:** Japan 🇯🇵  
-💼 **Focus:** Building beautiful mobile applications  
-☕ **Powered by:** Coffee and curiosity  
-🎯 **Goal:** Creating amazing user experiences  
+💼 **Focus:** Building intelligent IoT solutions  
+☕ **Powered by:** Coffee and innovation  
+🎯 **Goal:** Creating seamless connected experiences  
+📱 **Hobby:** Swift app development enthusiast
 
 </td>
 </tr>
 </table>
+
+</div>
+
+## 🔧 **What I Do**
+
+<div align="center">
+
+### 🏭 **IoT Systems Development**
+
+Building smart, connected solutions using Python for industrial and consumer applications
+
+### 📱 **Mobile App Development**
+
+Creating beautiful iOS applications with Swift as a passionate hobby
+
+### 🌐 **Connected Solutions**
+
+Integrating hardware and software to build the future of connected devices
 
 </div>
 
@@ -52,41 +72,85 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 📱  **Mobile Development**
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
+### 🐍 **Python & IoT Development**
 
-### ☁️  **Backend as a Service (BaaS)**
-<img src="https://skillicons.dev/icons?i=supabase,firebase" />
+<img src="https://skillicons.dev/icons?i=python,raspberrypi,arduino" />
 
-### 🔧  **Development Tools**
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+### 📱 **Mobile Development**
+
+<img src="https://skillicons.dev/icons?i=swift,xcode" />
+
+### ☁️ **Cloud & Backend**
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker" />
 
 </td>
 <td width="50%" align="center" valign="top">
 
-### 🗄️  **Database**
-<img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
+### 🗄️ **Database & Data**
 
-### 🎨  **Design**
-<img src="https://skillicons.dev/icons?i=figma,xd,photoshop" />
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis" />
 
-### 💻  **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,html,css" />
+### 🔧 **Development Tools**
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+
+### 📊 **IoT & Hardware**
+
+<img src="https://skillicons.dev/icons?i=linux,nginx" />
 
 </td>
 </tr>
 </table>
 
-## 🏆 **GitHub Trophies (Commits)**
+## 🚀 **Featured Projects**
+
+<div align="center">
+
+### 🔌 **Smart Home IoT System**
+
+Python-based home automation with Raspberry Pi and sensors
+
+### 📱 **iOS Weather App**
+
+Beautiful weather application built with Swift and Core Location
+
+### 🌡️ **Industrial Monitoring Solution**
+
+Real-time sensor data collection and analysis system
+
+</div>
+
+## 🏆 **GitHub Trophies**
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=user&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits" />
+</div>
+
+## 📈 **GitHub Stats**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=user&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff" />
 </div>
 
 ## 💭 **Random Dev Quote**
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
+</div>
+
+## 📫 **Connect With Me**
+
+<div align="center">
+  <a href="https://github.com/user">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:user@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/user">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
 
 <div align="center">
@@ -98,5 +162,5 @@
   
   **⭐ From [user](https://github.com/user) with ❤️**
   
-  *"Flutter makes everything beautiful! 🦋"*
+  *"Connecting the world, one device at a time! 🔌✨"*
 </div>
