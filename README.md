@@ -24,12 +24,12 @@
 
 ### 👋 **Hi, I'm hikarucode1!**
 
-🚀 **RasPi を用いた IoT システムの開発** passionate about connected systems
+🚀 **Raspberry Pi IoT Systems Developer** passionate about connected systems
 
 🌍 **Location:** Japan 🇯🇵  
-💼 **Focus:** IoT システムの開発  
-💪 **Powered by:** 筋トレと旅行  
-🎯 **Goal:** IoT のスペシャリスト  
+💼 **Focus:** IoT Systems Development  
+💪 **Powered by:** Gym Training & Travel  
+🎯 **Goal:** IoT Specialist  
 📱 **Hobby:** Swift app development enthusiast
 
 </td>
