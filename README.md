@@ -44,15 +44,15 @@
 
 ### 🏭 **IoT Systems Development**
 
-Building smart, connected solutions using Python for industrial and consumer applications
+Building IoT systems using Python and Raspberry Pi to collect environmental data
 
 ### 📱 **Mobile App Development**
 
-Creating beautiful iOS applications with Swift as a passionate hobby
+iOS app development with Swift, currently learning
 
 ### 🌐 **Connected Solutions**
 
-Integrating hardware and software to build the future of connected devices
+Connecting sensors and data to monitor and analyze environmental conditions
 
 </div>
 
