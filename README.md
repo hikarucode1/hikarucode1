@@ -155,10 +155,10 @@ Real-time sensor data collection and analysis system
   <a href="https://github.com/hikarucode1">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:hikaruken0126@gmail.com">
+  <a href="mailto:hikaruken0126@gmail.com?subject=Hello from GitHub Profile&body=Hi hikarucode1! I found your GitHub profile and would like to connect with you.">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://zenn.dev/hikarucode1">
+  <a href="https://zenn.dev/kenya0126">
     <img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" />
   </a>
 </div>
