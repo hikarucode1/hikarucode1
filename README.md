@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+User+%F0%9F%91%8B;Python+IoT+Developer+%F0%9F%9A%80;Swift+App+Enthusiast+%E2%9C%A8;Building+Connected+Solutions+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+hikarucode1+%F0%9F%91%8B;Python+IoT+Developer+%F0%9F%9A%80;Swift+App+Enthusiast+%E2%9C%A8;Junior+Engineer+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
 ## 🌟 **About Me**
@@ -22,7 +22,7 @@
 </td>
 <td width="400" align="left">
 
-### 👋 **Hi, I'm User!**
+### 👋 **Hi, I'm hikarucode1!**
 
 🚀 **Python IoT Developer** passionate about connected systems
 
@@ -63,7 +63,7 @@ Integrating hardware and software to build the future of connected devices
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=user&custom_title=User's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hikarucode1&custom_title=hikarucode1's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
 </div>
 
 ## 🛠️ **Tech Stack**
@@ -130,7 +130,7 @@ Real-time sensor data collection and analysis system
 ## 📈 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=user&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hikarucode1&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff" />
 </div>
 
 ## 💭 **Random Dev Quote**
@@ -142,7 +142,7 @@ Real-time sensor data collection and analysis system
 ## 📫 **Connect With Me**
 
 <div align="center">
-  <a href="https://github.com/user">
+  <a href="https://github.com/hikarucode1">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:user@example.com">
@@ -160,7 +160,7 @@ Real-time sensor data collection and analysis system
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
   
-  **⭐ From [user](https://github.com/user) with ❤️**
+  **⭐ From [hikarucode1](https://github.com/hikarucode1) with ❤️**
   
   *"Connecting the world, one device at a time! 🔌✨"*
 </div>
