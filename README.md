@@ -78,26 +78,26 @@ Connecting sensors and data to monitor and analyze environmental conditions
 
 ### 📱 **Mobile Development**
 
-<img src="https://skillicons.dev/icons?i=swift,xcode" />
+<img src="https://skillicons.dev/icons?i=swift,xcode,flutter" />
 
 ### ☁️ **Cloud & Backend**
 
-<img src="https://skillicons.dev/icons?i=aws,azure,docker" />
+<img src="https://skillicons.dev/icons?i=azure,vercel,flask" />
 
 </td>
 <td width="50%" align="center" valign="top">
 
 ### 🗄️ **Database & Data**
 
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis" />
+<img src="https://skillicons.dev/icons?i=mysql,firebase,mariadb,azure,grafana,pandas" />
 
 ### 🔧 **Development Tools**
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,cursor,xcode,npm,pip,eclipse" />
 
 ### 📊 **IoT & Hardware**
 
-<img src="https://skillicons.dev/icons?i=linux,nginx" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,websocket,ssh,virtualbox" />
 
 </td>
 </tr>
