@@ -89,7 +89,8 @@ Connecting sensors and data to monitor and analyze environmental conditions
 
 ### 🗄️ **Database & Data**
 
-<img src="https://skillicons.dev/icons?i=mysql,firebase,mariadb,azure" />
+<img src="https://skillicons.dev/icons?i=mysql,firebase,azure" />
+<br><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
 <br><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 <br><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 
@@ -103,8 +104,8 @@ Connecting sensors and data to monitor and analyze environmental conditions
 ### 📊 **IoT & Hardware**
 
 <img src="https://skillicons.dev/icons?i=linux,ubuntu" />
-<br><img src="https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logo=websocket&logoColor=white" />
-<br><img src="https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=ssh&logoColor=white" />
+<br><img src="https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logoColor=white" />
+<br><img src="https://img.shields.io/badge/SSH-000000?style=for-the-badge&logoColor=white" />
 <br><img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
 
 </td>
