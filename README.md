@@ -121,9 +121,9 @@ Connecting sensors and data to monitor and analyze environmental conditions
 
 Python-based home automation with Raspberry Pi and sensors
 
-### 📱 **iOS Weather App**
+### 📱 **Collaborative Learning App**
 
-Beautiful weather application built with Swift and Core Location
+iOS app development for collaborative learning and effort tracking
 
 ### 🌡️ **Industrial Monitoring Solution**
 
