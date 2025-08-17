@@ -89,15 +89,23 @@ Connecting sensors and data to monitor and analyze environmental conditions
 
 ### 🗄️ **Database & Data**
 
-<img src="https://skillicons.dev/icons?i=mysql,firebase,mariadb,azure,grafana,pandas" />
+<img src="https://skillicons.dev/icons?i=mysql,firebase,mariadb,azure" />
+<br><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+<br><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 
 ### 🔧 **Development Tools**
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,cursor,xcode,npm,pip,eclipse" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,xcode,npm" />
+<br><img src="https://img.shields.io/badge/Pip-3776AB?style=for-the-badge&logo=pypi&logoColor=white" />
+<br><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+<br><img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
 
 ### 📊 **IoT & Hardware**
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,websocket,ssh,virtualbox" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu" />
+<br><img src="https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logo=websocket&logoColor=white" />
+<br><img src="https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=ssh&logoColor=white" />
+<br><img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
 
 </td>
 </tr>
