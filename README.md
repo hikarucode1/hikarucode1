@@ -78,7 +78,7 @@ Connecting sensors and data to monitor and analyze environmental conditions
 
 ### 📱 **Mobile Development**
 
-<img src="https://skillicons.dev/icons?i=swift,xcode,flutter" />
+<img src="https://skillicons.dev/icons?i=swift,flutter" />
 
 ### ☁️ **Cloud & Backend**
 
@@ -96,7 +96,8 @@ Connecting sensors and data to monitor and analyze environmental conditions
 
 ### 🔧 **Development Tools**
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,xcode,npm" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,npm" />
+<br><img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white" />
 <br><img src="https://img.shields.io/badge/Pip-3776AB?style=for-the-badge&logo=pypi&logoColor=white" />
 <br><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
 <br><img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
