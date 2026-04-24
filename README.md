@@ -7,22 +7,22 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+hikarucode1+%F0%9F%91%8B;Python+IoT+Developer+%F0%9F%9A%80;Swift+App+Enthusiast+%E2%9C%A8;Junior+Engineer+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+hikarucode1+👋;Python+IoT+Developer+🚀;Swift+App+Enthusiast+✨;Junior+Engineer+Learning+📚" alt="Typing SVG" />
 </div>
 
-## 🌟 **About Me**
+---
 
-<div align="center">
+## 🌟 About Me
 
-<table>
+<table align="center">
 <tr>
-<td width="200" align="center">
+<td width="160" align="center">
 <img src="https://skillicons.dev/icons?i=python" width="100" height="100" alt="Python" />
 <br><strong>Python</strong>
 </td>
-<td width="400" align="left">
+<td width="440" align="left">
 
-### 👋 **Hi, I'm hikarucode1!**
+### 👋 Hi, I'm hikarucode1!
 
 🚀 **Raspberry Pi IoT Systems Developer** passionate about connected systems
 
@@ -36,126 +36,124 @@
 </tr>
 </table>
 
-</div>
+---
 
-## 🔧 **What I Do**
-
-<div align="center">
-
-### 🏭 **IoT Systems Development**
-
-Building IoT systems using Python and Raspberry Pi to collect environmental data
-
-### 📱 **Mobile App Development**
-
-iOS app development with Swift, currently learning
-
-### 🌐 **Connected Solutions**
-
-Connecting sensors and data to monitor and analyze environmental conditions
-
-</div>
-
-## 📊 **GitHub Analytics**
+## 🔧 What I Do
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hikarucode1&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
+
+| 🏭 IoT Systems | 📱 Mobile Apps | 🌐 Connected Solutions |
+|:---:|:---:|:---:|
+| Python × Raspberry Pi で環境データ収集システムを構築 | Swift で iOS アプリ開発を学習中 | センサー×データで環境をリアルタイム監視・分析 |
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hikarucode1&custom_title=hikarucode1's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
-</div>
+---
 
-## 🛠️ **Tech Stack**
+## 🛠️ Tech Stack
 
 <table align="center">
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 🐍 **Python & IoT Development**
+### 🐍 Python & IoT
 
 <img src="https://skillicons.dev/icons?i=python,raspberrypi,arduino" />
 
-### 📱 **Mobile Development**
+### 📱 Mobile Development
 
 <img src="https://skillicons.dev/icons?i=swift,flutter" />
 
-### ☁️ **Cloud & Backend**
+### ☁️ Cloud & Backend
 
 <img src="https://skillicons.dev/icons?i=azure,vercel,flask" />
 
 </td>
 <td width="50%" align="center" valign="top">
 
-### 🗄️ **Database & Data**
+### 🗄️ Database & Data
 
 <img src="https://skillicons.dev/icons?i=mysql,firebase,azure" />
-<br><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-<br><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-<br><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 
-### 🔧 **Development Tools**
+### 🔧 Development Tools
 
 <img src="https://skillicons.dev/icons?i=vscode,git,github,npm" />
-<br><img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white" />
-<br><img src="https://img.shields.io/badge/Pip-3776AB?style=for-the-badge&logo=pypi&logoColor=white" />
-<br><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
-<br><img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
 
-### 📊 **IoT & Hardware**
+### 📊 IoT & Hardware
 
 <img src="https://skillicons.dev/icons?i=linux,ubuntu" />
-<br><img src="https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logoColor=white" />
-<br><img src="https://img.shields.io/badge/SSH-000000?style=for-the-badge&logoColor=white" />
-<br><img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/SSH-000000?style=for-the-badge&logoColor=white" />
 
 </td>
 </tr>
 </table>
 
-## 🚀 **Featured Projects**
+---
+
+## 🚀 Featured Projects
 
 <div align="center">
 
-### 🔌 **Smart Home IoT System**
-
-Python-based home automation with Raspberry Pi and sensors
-
-### 📱 **Collaborative Learning App**
-
-iOS app development for collaborative learning and effort tracking
-
-### 🌡️ **Industrial Monitoring Solution**
-
-Real-time sensor data collection and analysis system
+| 🔌 Smart Home IoT | 📱 Collaborative Learning App | 🌡️ Industrial Monitoring |
+|:---:|:---:|:---:|
+| Python × Raspberry Pi によるホームオートメーション | 協調学習・努力トラッキング iOS アプリ | リアルタイムセンサーデータ収集・分析システム |
 
 </div>
 
-## 🏆 **GitHub Trophies**
+---
+
+## 📊 GitHub Analytics
+
+> ⚠️ **プライベートコミットを反映させるには:** GitHub → Settings → Privacy → **"Include private contributions on my profile"** を ON にしてください
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=user&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hikarucode1&theme=transparent&border_radius=10&starting_year=2020&hide_border=true" alt="GitHub Streak" />
 </div>
-
-## 📈 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hikarucode1&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hikarucode1&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hikarucode1&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&count_private=true" alt="Top Languages" />
 </div>
 
-## 💭 **Random Dev Quote**
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hikarucode1&custom_title=hikarucode1's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hikarucode1&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits" />
+</div>
+
+---
+
+## 💭 Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
 </div>
 
-## 📫 **Connect With Me**
+---
+
+## 📫 Connect With Me
 
 <div align="center">
   <a href="https://github.com/hikarucode1">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:hikaruken0126@gmail.com?subject=Hello from GitHub Profile&body=Hi hikarucode1! I found your GitHub profile and would like to connect with you.">
+  <a href="mailto:hikaruken0126@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://zenn.dev/kenya0126">
@@ -169,8 +167,8 @@ Real-time sensor data collection and analysis system
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-  
+
   **⭐ From [hikarucode1](https://github.com/hikarucode1) with ❤️**
-  
+
   *"Connecting the world, one device at a time! 🔌✨"*
 </div>
