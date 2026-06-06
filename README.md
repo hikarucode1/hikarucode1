@@ -112,9 +112,6 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
 
 ### 🌐 Portfolio Site
 
@@ -122,32 +119,12 @@
 
 <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,vercel" height="40" />
 
-<a href="https://portfolio-eisai-manager.vercel.app">
-  <img src="https://img.shields.io/badge/Live_Demo-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+<br><br>
+
 <a href="https://github.com/hikarucode1/portfolio">
-  <img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</td>
-<td width="50%" valign="top">
-
-### 🗓️ Shift Manager
-
-個別指導塾向けのシフト管理システム。Next.js + TypeScript で構築し Vercel で稼働中。
-
-<img src="https://skillicons.dev/icons?i=nextjs,ts,vercel" height="40" />
-
-<a href="https://eisai-manager.vercel.app">
-  <img src="https://img.shields.io/badge/Live_Demo-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://github.com/hikarucode1/shift-manager">
-  <img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-</tr>
-</table>
 </div>
 
 ---
@@ -194,9 +171,6 @@
 
 <a href="https://github.com/hikarucode1">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://portfolio-eisai-manager.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://zenn.dev/kenya0126">
     <img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" />
