@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+hikarucode1+👋;Python+IoT+Developer+🚀;Swift+App+Enthusiast+✨;Junior+Engineer+Learning+📚" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+hikarucode1+👋;LoRaWAN+/+SCHC+Network+Research+📡;AI+App+Developer+with+Claude+🤖;Web+and+iOS+App+Builder+🛠️" alt="Typing SVG" />
 </div>
 
 ---
@@ -18,19 +18,20 @@
 <tr>
 <td width="160" align="center">
 <img src="https://skillicons.dev/icons?i=python" width="100" height="100" alt="Python" />
-<br><strong>Python</strong>
+<br><strong>Research × AI</strong>
 </td>
 <td width="440" align="left">
 
 ### 👋 Hi, I'm hikarucode1!
 
-🚀 **Raspberry Pi IoT Systems Developer** passionate about connected systems
+🎓 日本の **学生エンジニア** — 研究と開発の両輪で動いています
 
 🌍 **Location:** Japan 🇯🇵  
-💼 **Focus:** IoT Systems Development  
-💪 **Powered by:** Gym Training & Travel  
-🎯 **Goal:** IoT Specialist  
-📱 **Hobby:** Swift app development enthusiast
+📡 **Research:** LoRaWAN を SCHC (RFC 8724) で軽量化 + 優先制御（卒業研究）  
+🤖 **Building:** Claude Code を相棒に AI アプリ / エージェント開発  
+🌐 **Also:** Next.js で Web、Swift で iOS アプリ  
+💪 **Off-screen:** Gym & Travel  
+🎯 **Goal:** 研究で深め、AI × 実装で形にする
 
 </td>
 </tr>
@@ -42,9 +43,9 @@
 
 <div align="center">
 
-| 🏭 IoT Systems | 📱 Mobile Apps | 🌐 Connected Solutions |
+| 📡 IoT・Network 研究 | 🤖 AI アプリ開発 | 🌐 Web・📱 iOS 開発 |
 |:---:|:---:|:---:|
-| Python × Raspberry Pi で環境データ収集システムを構築 | Swift で iOS アプリ開発を学習中 | センサー×データで環境をリアルタイム監視・分析 |
+| LoRaWAN を SCHC で軽量化し、優先制御を設計（卒業研究） | Claude Code を相棒に、AI エージェントを使ったアプリを試作 | Next.js で Web アプリ、Swift で iOS アプリを開発 |
 
 </div>
 
@@ -56,42 +57,51 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 🐍 Python & IoT
+### 🌐 Web & Frontend
 
-<img src="https://skillicons.dev/icons?i=python,raspberrypi,arduino" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,vercel" />
 
-### 📱 Mobile Development
+### 📱 Mobile
 
 <img src="https://skillicons.dev/icons?i=swift,flutter" />
+<br>
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
 
-### ☁️ Cloud & Backend
+### 🤖 AI / LLM
 
-<img src="https://skillicons.dev/icons?i=azure,vercel,flask" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Agents-5A45FF?style=for-the-badge" />
 
 </td>
 <td width="50%" align="center" valign="top">
 
-### 🗄️ Database & Data
+### 📡 IoT & Networking
 
-<img src="https://skillicons.dev/icons?i=mysql,firebase,azure" />
+<img src="https://skillicons.dev/icons?i=raspberrypi,arduino,linux,ubuntu" />
+<br>
+<img src="https://img.shields.io/badge/LoRaWAN-0B6E4F?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/SCHC-RFC_8724-5C2D91?style=for-the-badge" />
+<img src="https://img.shields.io/badge/IM920-FF6B00?style=for-the-badge" />
+<br>
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_IoT-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+
+### 🗄️ Data & Backend
+
+<img src="https://skillicons.dev/icons?i=python,mysql,firebase" />
 <br>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 
-### 🔧 Development Tools
+### 🧰 Tools
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,npm" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github" />
 <br>
-<img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white" />
 <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-
-### 📊 IoT & Hardware
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu" />
-<br>
-<img src="https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/SSH-000000?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" />
 
 </td>
 </tr>
@@ -102,18 +112,47 @@
 ## 🚀 Featured Projects
 
 <div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| 🔌 Smart Home IoT | 📱 Collaborative Learning App | 🌡️ Industrial Monitoring |
-|:---:|:---:|:---:|
-| Python × Raspberry Pi によるホームオートメーション | 協調学習・努力トラッキング iOS アプリ | リアルタイムセンサーデータ収集・分析システム |
+### 🌐 Portfolio Site
 
+個人ポートフォリオ — Next.js 16 + TypeScript + Tailwind CSS。Zenn 連携ブログ付き。
+
+<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,vercel" height="40" />
+
+<a href="https://portfolio-eisai-manager.vercel.app">
+  <img src="https://img.shields.io/badge/Live_Demo-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/hikarucode1/portfolio">
+  <img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🗓️ Shift Manager
+
+個別指導塾向けのシフト管理システム。Next.js + TypeScript で構築し Vercel で稼働中。
+
+<img src="https://skillicons.dev/icons?i=nextjs,ts,vercel" height="40" />
+
+<a href="https://eisai-manager.vercel.app">
+  <img src="https://img.shields.io/badge/Live_Demo-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/hikarucode1/shift-manager">
+  <img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
 </div>
 
 ---
 
 ## 📊 GitHub Analytics
-
-> ⚠️ **プライベートコミットを反映させるには:** GitHub → Settings → Privacy → **"Include private contributions on my profile"** を ON にしてください
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hikarucode1&theme=transparent&border_radius=10&starting_year=2020&hide_border=true" alt="GitHub Streak" />
@@ -150,15 +189,22 @@
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="https://github.com/hikarucode1">
+
+✍️ Zenn で新人・学生向けの入門書（全24章）を執筆中
+
+<a href="https://github.com/hikarucode1">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:hikaruken0126@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://zenn.dev/kenya0126">
+</a>
+<a href="https://portfolio-eisai-manager.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://zenn.dev/kenya0126">
     <img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" />
-  </a>
+</a>
+<a href="mailto:hikaruken0126@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </div>
 
 <div align="center">
@@ -170,5 +216,5 @@
 
   **⭐ From [hikarucode1](https://github.com/hikarucode1) with ❤️**
 
-  *"Connecting the world, one device at a time! 🔌✨"*
+  *"Researching low-power networks, building with AI — one experiment at a time. 📡🤖"*
 </div>
