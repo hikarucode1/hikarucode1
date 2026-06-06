@@ -121,6 +121,9 @@
 
 <br><br>
 
+<a href="https://hikarucode1.vercel.app">
+  <img src="https://img.shields.io/badge/Live_Demo-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 <a href="https://github.com/hikarucode1/portfolio">
   <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
@@ -171,6 +174,9 @@
 
 <a href="https://github.com/hikarucode1">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://hikarucode1.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://zenn.dev/kenya0126">
     <img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" />
